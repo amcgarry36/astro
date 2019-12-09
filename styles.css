@@ -1,0 +1,26 @@
+.maincontentimage {
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 130px;
+}
+
+#header {
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 130px;
+}
+.text {
+     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ #astroheaderimage {
+     max-width: 100%;
+     height: auto;
+ }
+
+ footer {
+     font-size: xx-small;
+ }
