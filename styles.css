@@ -13,7 +13,8 @@
 }
 .text {
      text-align: center;
- }
+    font-family: 'Courier New', Courier, monospace;
+}
 
  #astroheaderimage {
      max-width: 100%;
