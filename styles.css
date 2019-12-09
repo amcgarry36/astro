@@ -1,9 +1,21 @@
 .maincontentimage {
     display: flex;
-    justify-content: center;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 130px;
 }
 
 #header {
     display: flex;
-    justify-content: center;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 130px;
 }
+.text {
+     text-align: center;
+ }
+
+ #astroheaderimage {
+     max-width: 100%;
+     height: auto;
+ }
